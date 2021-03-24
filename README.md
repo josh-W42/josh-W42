@@ -1,4 +1,15 @@
 ### Hi there 👋
+
+## About me:
+  - 🖥  Full Stack Web Developer
+  - 📖 Currently Studying @ General Assembly
+
+
+<p align = 'center'>
+  <img src = "https://github-readme-stats.vercel.app/api?username=josh-W42&show_icons=true&theme=dark" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=josh-W42&theme=dark&layout=compact" />
+</p>
+
 <!--
 **josh-W42/josh-W42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
