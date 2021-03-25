@@ -15,10 +15,13 @@
 
 <br />
 
-<div align = 'center'>
-  <img src = "https://github-readme-stats.vercel.app/api?username=josh-W42&show_icons=true&theme=dark" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=josh-W42&theme=dark&layout=compact" />
-</div>
+<details>
+  <summary>My Github Stats</summary>
+  <div align = 'center'>
+    <img src = "https://github-readme-stats.vercel.app/api?username=josh-W42&show_icons=true&theme=dark" />
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=josh-W42&theme=dark&layout=compact" />
+  </div>
+</details>
 
 <!--
 
