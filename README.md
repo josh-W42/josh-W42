@@ -2,13 +2,14 @@
 
 ## About me:
   - 🖥  Full Stack Web Developer
-  - 📖 Currently Studying @ General Assembly
+  - 📖  Currently Studying @ General Assembly
 
 
 <p align = 'center'>
   <img src = "https://github-readme-stats.vercel.app/api?username=josh-W42&show_icons=true&theme=dark" />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=josh-W42&theme=dark&layout=compact" />
 </p>
+
 
 <!--
 **josh-W42/josh-W42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +24,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img alt="josh-w42" src="https://badges.pufler.dev/visits/josh-W42/josh-W42?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+
+<a href="https://www.linkedin.com/in/jdwilson42/" target="_blank" rel="noopener noreferrer"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+
+<a href="https://github.com/josh-W42?tab=repositories&language=python" target="_blank" rel="noopener noreferrer"><img alt="python" src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python&logoColor=white"></a>
 -->
