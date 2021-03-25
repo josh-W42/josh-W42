@@ -4,7 +4,7 @@
   - 🖥  Full Stack Web Developer
   - 📖  Currently Studying @ General Assembly
   - 📫 How to reach me: <br />
-<div align = 'center' >
+<div>
   <a href="https://www.linkedin.com/in/jdwilson42/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
