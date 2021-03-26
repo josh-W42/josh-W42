@@ -9,7 +9,7 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
   <a href="mailto:wilson.jd022@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
 </div>
 
@@ -27,10 +27,16 @@
 
 **josh-W42/josh-W42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<div align = 'center'>
-  <img src = "https://github-readme-stats.vercel.app/api?username=josh-W42&show_icons=true&theme=dark" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=josh-W42&theme=dark&layout=compact" />
-</div>
+## Technologies:
+
+  - Front-End:
+  <div align = 'left'>
+    <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white">
+    <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white">
+  <div>
+  
 
 
 Here are some ideas to get you started:
