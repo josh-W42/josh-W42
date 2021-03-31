@@ -23,6 +23,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white">
   <img alt="React" src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=React&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-%237952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
+  <img alt="Material-UI" src="https://img.shields.io/badge/-Material--UI-%230081CB?style=for-the-badge&logo=Material-ui&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=Node.js&logoColor=white">
   <img alt="Express.js" src="https://img.shields.io/badge/-Express-lightgrey?style=for-the-badge&logo=Express&logoColor=white">
   <img alt="Python" src="https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=Python&logoColor=white">
