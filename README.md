@@ -6,7 +6,7 @@
   - 👟 Loves to run and travel ✈️
   - 📫 How to reach me: <br />
 <div>
-  <a href="https://www.linkedin.com/in/jdwilson42/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/jwilson42/" target="_blank" rel="noopener noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white">
   </a>
   <a href="mailto:wilson.jd022@gmail.com" target="_blank" rel="noopener noreferrer">
