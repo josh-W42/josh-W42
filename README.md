@@ -2,7 +2,8 @@
 
 ## About me:
   - 🖥  Full Stack Web Developer
-  - 📖  Currently Studying @ General Assembly
+  - 📖  General Assembly Software Engineering Bootcamp Grad
+  - 🌱  Learning More About - React + GraphQL + Go
   - 👟 Loves to run and travel ✈️
   - 📫 How to reach me: <br />
 <div>
