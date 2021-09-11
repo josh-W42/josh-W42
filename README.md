@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## About me:
-  - 🖥  Full Stack Web Developer
+  - 🖥  Software Engineer 
   - 📖  General Assembly Software Engineering Bootcamp Grad
   - 🌱  Learning More About - React + GraphQL + Go
   - 👟 Loves to run and travel ✈️
