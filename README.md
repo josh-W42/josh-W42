@@ -19,7 +19,7 @@
 
 <br />
 <div>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=josh-w42&theme=github_dark&layout=donut&hide=css,html,ejs" /> 
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=josh-w42&theme=github_dark&layout=donut&hide=css,html,ejs,jupyter%20notebook" /> 
 </div>
 
 <!--
