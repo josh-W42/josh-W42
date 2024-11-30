@@ -4,7 +4,7 @@
   - 🖥  Software Engineer 
   - 📖 General Assembly Software Engineering Bootcamp Grad
   - 🏫 Former UCLA Bruin 🐻
-  - 🌱 Currently learning more about - Godot + Blender + Next.js
+  - 🌱 Currently learning more about - Flutter + Dart
   - 👟 Long Distance Runner (Baby Marathoner 🍼) + Gamer 🎮
   - 💼 Actively searching for engineering oppurtunties.
   - 📫 How to reach me: <br />
