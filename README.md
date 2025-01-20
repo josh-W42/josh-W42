@@ -6,7 +6,6 @@
   - 🏫 Former UCLA Bruin 🐻
   - 🌱 Currently learning more about - Flutter + Dart
   - 👟 Long Distance Runner (Baby Marathoner 🍼) + Gamer 🎮
-  - 💼 Actively searching for engineering oppurtunties.
   - 📫 How to reach me: <br />
 <div>
   <a href="https://www.linkedin.com/in/jwilson42/" target="_blank" rel="noopener noreferrer">
@@ -24,6 +23,8 @@
 
 <!--
 
+  - 💼 Actively searching for engineering oppurtunties.
+  
 **josh-W42/josh-W42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
 
